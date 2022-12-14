@@ -54,6 +54,9 @@ elif option == "Data Exploration":
     st.title("Automated Data Exploration")
     profile_report = df.profile_report()
     st_profile_report(profile_report)
+    profile_report.to_file("Analysis.html")
+    with open("Analysis.html", 'rb') as f:
+        st.download_button("Download Analysis", f, "Analysis.html")
 
 elif option == "Model Selection":
 
