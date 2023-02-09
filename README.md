@@ -19,14 +19,14 @@ To input your desired dataset.
 2. Click on the "Browse file"
 3. You will see a view of your dataset once it has loaded in. (This might take awhile depending on the size of your dataset)
 
-(AutoML 1)
+![](https://github.com/TYW02/AutoML/blob/main/images/AutoML-1.png)
 
 ## Generate Data Report
 1. Click on the "Data Exploration" Radio button on the left side of the screen.
 2. Wait for the program to finish generating the data report.
 3. If you wish to download the report, scroll down to the bottom of the screen and click on the "Download Analysis" button.
 
-(AutoML 2)
+![](https://github.com/TYW02/AutoML/blob/main/images/AutoML-2.png)
 
 ## Model selection
 1. Click on the "Model Selection" button.
@@ -34,15 +34,15 @@ To input your desired dataset.
 3. Select your target feature 
 4. Click on "Train Model"
 
-(AutoML 3)
+![](https://github.com/TYW02/AutoML/blob/main/images/AutoML-3.png)
 
-(AutoML 4)
+![](https://github.com/TYW02/AutoML/blob/main/images/AutoML-4.png)
 
 
 ## Downloading the Model
 1. Click on the "Model Download" radio button on the side of the screen.
 2. Click on the "Download Model" button to start download the model.
 
-(AutoML 5)
+![](https://github.com/TYW02/AutoML/blob/main/images/AutoML-5.png)
 
 
